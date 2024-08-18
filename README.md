@@ -8,7 +8,7 @@ Front-end разработчик
 
 * 🌍  Я проживаю в Санкт-Петербурге
 * 🖥️  Мой [Telegram](http://t.me/Netlive1)
-* ✉️  Почта [igor.nevski.25@mail.com](mailto:igor.nevski.25@mail.com)
+* ✉️  Почта [igor.nevski.25@gmail.com](mailto:igor.nevski.25@gmail.com)
 
 ## Core
 
